@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.android_evento_java_kotlin"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.android_evento_java_kotlin"
